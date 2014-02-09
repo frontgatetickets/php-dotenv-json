@@ -1,5 +1,5 @@
 {
-    "name": "jimbocoder/php-dotenv-json",
+    "name": "frontgatetickets/php-dotenv-json",
     "description": "`dotenv` style environment configs, with JSON.",
     "authors": [
         {
