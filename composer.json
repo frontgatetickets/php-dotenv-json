@@ -1,0 +1,27 @@
+{
+    "name": "jimbocoder/php-dotenv-json",
+    "description": "`dotenv` style environment configs, with JSON.",
+    "authors": [
+        {
+            "name": "Jim Howell",
+            "email": "jim.howell@frontgatetickets.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/frontgatetickets/php-json-bomb"
+        }
+    ],
+    "require": {
+        "frontgatetickets/php-json-bomb": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
